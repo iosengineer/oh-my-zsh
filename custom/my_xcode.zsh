@@ -1,0 +1,1 @@
+alias mogen=xcodebuild -scheme Mogenerator
