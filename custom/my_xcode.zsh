@@ -1,1 +1,1 @@
-alias mogen=xcodebuild -scheme Mogenerator
+alias mogen="xcodebuild -scheme Mogenerator"
